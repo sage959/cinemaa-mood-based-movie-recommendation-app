@@ -5,7 +5,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import '../models/movie.dart';
 
-const _apiKey = '0841a1aaf745e1cd709fc63fc2597ea2'; // 🔑 replace this
+const _apiKey = 'api_key'; // 🔑 replace this
 const _base = 'https://api.themoviedb.org/3'; //
 
 class MovieApi {
